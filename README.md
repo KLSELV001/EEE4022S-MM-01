@@ -1,4 +1,4 @@
-<header>
+EEE4022S MM-01 <header>
 
 <!--
   <<< Author notes: Course header >>>
